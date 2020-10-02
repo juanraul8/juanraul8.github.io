@@ -1,24 +1,22 @@
 title: Juan Raul Padron Griffe
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Computer scientist passionate about computer graphics, computer vision and machine learning.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://juanraul8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Juan Raul Padron Griffe # add your name
+author: Juan Raul Padron # add your name
 author-img: juanraul.jpg # add your photo
-about-author: Hola! I have just finished my MSc Informatics at Technical University of Munich. Currently, I am looking for a PhD Position. # add description
+about-author: Hola! I have just finished my MSc Informatics at Technical University of Munich. Currently, I am looking for a PhD position. # add description
 social-twitter: JuanRaulPadron# add your Twitter handle
 social-github: juanraul8 # add your Github handle
 social-linkedin: juan-raul-padron-griffe # add your Linkedin handle
 social-email: juanraul.padron@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Juan Raul Padron Griffe # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics

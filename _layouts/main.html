@@ -21,11 +21,6 @@ layout: default
         {% else %}
           <li><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% endif %}
-        {% if site.social-facebook %}
-          <li><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        {% else %}
-          <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        {% endif %}
         {% if site.social-github %}
           <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
         {% else %}
@@ -45,6 +40,7 @@ layout: default
     </section> <!-- End Section Contact -->
     <div class="copyright">
       <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+      <p>Website is based on <a href="https://github.com/artemsheludko/flexible-jekyll" target="_blank">flexible-jekyll</a>.</p>
     </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
