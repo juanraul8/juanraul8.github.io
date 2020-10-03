@@ -2,10 +2,10 @@
 layout: post
 title: Face Relighting In The Wild
 date: 2020-07-31 13:32:20 +0300
-description: Given an arbitrary portrait image and a target lighting as an input, the algorithm generates the relight version of the portrait image under the target lighting conditions. # Add post description (optional)
+description: Given an arbitrary portrait image and a target lighting as inputs, the algorithm generates the relight version of the portrait image under the target lighting conditions. # Add post description (optional)
 img: face_relighting.gif # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Relighting]
+tags: [Neural Rendering, Relighting]
 ---
 Relighting plays an essential role in realistically transferring objects from a captured environment into another one. In particular, current applications like telepresence need to relit faces
 consistently with the illumination conditions of the target environment to offer an authentic

@@ -1,0 +1,9 @@
+I"Õ<p><img src="/assets/img/neural_relighting_architecture.png" alt="I and My friends" /></p>
+
+<p>For my guided research project, we present an image-based relighting method that can synthesize scenes under novel lighting using image synthesis models based on deep learning. Our method extends <a href="https://justusthies.github.io/posts/deferred-neural-rendering/">the Deffered Neural Rendering pipeline</a> to perform relighting tasks. This pipeline combines the traditional graphics pipeline with learnable components: neural textures and deferred neural ren- derer. We evaluate extensively the effectiveness of our approach in several experiments, on both synthetic and real scenes. Results prove that Neu- ral Rendering pipeline is able to reproduce complex relighting tasks like modeling high frequency lighting effects such as specularities and shadows.</p>
+
+<p>Advisor: <a href="https://justusthies.github.io/">Justus Thies</a>
+Supervisor: <a href="https://niessnerlab.org/members/matthias_niessner/profile.html">Matthias Niessner</a></p>
+
+<p><a href="https://github.com/juanraul8/NeuralRelighting">Github repository</a> <a href="https://drive.google.com/file/d/1el6d0RankNJh1N3E-JNAANRsfOPlohWt/view?usp=sharing">Document</a></p>
+:ET
