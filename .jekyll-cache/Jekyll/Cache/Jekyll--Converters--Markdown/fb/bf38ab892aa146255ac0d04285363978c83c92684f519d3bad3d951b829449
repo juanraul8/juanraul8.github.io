@@ -1,0 +1,16 @@
+I"Ë<p>For the <a href="https://www.in.tum.de/cg/teaching/winter-term-1718/3d-scanning-motion-capture/">Hands-on Deep Learning for Computer Vision</a> practical course at the Technical University of Munich, we implement the infamous <a href="https://www.nature.com/articles/nature16961">AlphaGo</a> algorithm in C++ 17 to address the protein folding problem with the reinforcement learning approach. The main idea of the algorithm is training a neural network to estimate the policy and the values estimates, where the policy is improved by looking ahead into the future via Monte Carlo Tree Search guided by the value network. The environment We rely on the TensorRT library to improve significantly the performance of the neural network inference. As a result, we could speed up the implementation 18.95 times regarding to the python version. Nevertheless, the approach is still unfeasible for large proteins (e.g. L = 332).</p>
+
+<p>Results overfitting a single protein:</p>
+
+<p><img src="/assets/img/smooth_return.png" alt="Smooth Return" />
+<img src="/assets/img/value_loss.png" alt="Value Loss" />
+<img src="/assets/img/policy_loss.png" alt="Policy Loss" /></p>
+
+<p>Team Members: <a href="https://github.com/Zielon">Matthias Humt</a>, <a href="https://felixopolka.me/">Felix Opolka</a><br />
+Instructors: <a href="https://vision.in.tum.de/members/golkov">Vladimir Golkov</a>, <a href="https://vision.in.tum.de/members/cremers">Daniel Cremers</a></p>
+
+<p><a href="https://drive.google.com/file/d/1MO6883uBrZXU8mwp9gbQin5ssAZYthNi/view?usp=sharing">Presentation</a></p>
+
+<p>DeepMind implemented successfully this project idea in a system called <a href="https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery">AlphaFold</a>. If you want to know more about cool projects in biomedicine, please contact Vladimir Golkov. Felix Opolka, which was the main responsible of this work, is currently working on cool publications about neural networks for graph-structured data.</p>
+
+:ET

@@ -17,7 +17,7 @@ Results:
 ![Terrain Scene 2]({{site.baseurl}}/assets/img/terrain_2.png)
 ![Terrain Scene 3]({{site.baseurl}}/assets/img/terrain_3.png)
 
-Advisor: [Hector Navarro](https://www.linkedin.com/in/hnavarro/)
+Advisor: [Hector Navarro](https://vision.in.tum.de/members/golkov)
 Supervisor: [Rhadamés Carmona](https://www.linkedin.com/in/rhadam%C3%A9s-carmona-31b0081/)
 
 This work was heavily inspired in three sources:  

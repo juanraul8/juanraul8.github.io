@@ -1,18 +1,0 @@
-I"�<p>En las u ́ltimas d ́ecadas, los avances que se han desarrollado de los mundos virtuales han sido impresionantes y abismales, pasando de primitivos a visual- mente complejos. Sin embargo, el proceso para constructirlos tradicionalmente se ha basado en el modelado manual, que es un proceso laborioso, repetitivo, tedioso y costoso, lo que lo hace una opci ́on cada vez menos viable para satis- facer las expectativas de los usuarios. Una alternativa atractiva es el modelado procedimental, que construye el contenido por medio de un procedimiento o programa. Un campo activo de investigaci ́on basado en esta alternativa, es la generaci ́on autom ́atica de terrenos, espec ́ıficamente la generaci ́on procedimen- tal de diversos tipos de terrenos encontrados en la naturaleza o imaginarios, se presenta como un reto interesante e importante.</p>
-
-<p>En el presente Trabajo Especial de Grado, se desarroll ́o un generador fractal de diversos tipos de terrenos, basado en una extensi ́on de s ́ıntesis de ruido, que incorpora transformaciones las cuales permiten ampliar de forma significativa la capacidad y el potencial de la generaci ́on. Adem ́as, se implement ́o un visuali- zador tridimensional de mapas de altura adecuado para estudiar y explorar los mapas generados.
-La propuesta planteada, construye diversos tipos de terrenos bajo un mis- mo enfoque, eficiente y extensible mediante la inclusi ́on de nuevos algoritmos, funciones base y/o transformaciones. Adicionalmente, a trav ́es de las pruebas realizadas, fue posible estudiar y analizar detallamente los algoritmos, las fun- ciones base y las transformaciones implementadas.</p>
-
-<p>For my Bachelor thesis, we develop a terrain generator based on an extension of the noise synthesis technique that includes transformations in order to improve significantly the capacity and power of the heightmap generation. The fractal generator is able to synthesize several types of terrains such as a glacier, mountain range or plateau in an efficient and extensive way via different base functions and transformations. Furthermore, we implement a 3D Viewer in order to study and explore the generation process. Finally, we carried out several experiments in order to study and understand the different algorithms, base functions and transformations.</p>
-
-<p>Results:</p>
-
-<p><img src="/assets/img/terrain_1.png" alt="Terrain Scene 1" />
-<img src="/assets/img/terrain_2.png" alt="Terrain Scene 2" />
-<img src="/assets/img/terrain_3.png" alt="Terrain Scene 3" /></p>
-
-<p>Advisor: <a href="https://www.linkedin.com/in/hnavarro/">Hector Navarro</a>
-Supervisor: <a href="https://www.linkedin.com/in/rhadam%C3%A9s-carmona-31b0081/">Rhadamés Carmona</a></p>
-
-<p><a href="https://drive.google.com/file/d/16PgIkpOOTXBhO0gBzbdN9-xLRofakXoz/view?usp=sharing">Document</a> <a href="https://drive.google.com/file/d/1zJ1c0cwMw72YhUqXSgXJYB_Yn8ndSWZ3/view?usp=sharing">Presentation</a></p>
-:ET
