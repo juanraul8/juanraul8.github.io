@@ -1,0 +1,24 @@
+---
+layout: post
+title: RGB-D Reconstruction for Mixed Reality
+date: 2019-02-5 13:32:20 +0300
+description: Real-time mixed reality game using marker-less tracking and 3D reconstruction based on Kinect Fusion pipeline and several Unity modules. # Add post description (optional)
+img: mixed_reality_game.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Mixed Reality, 3D Reconstruction]
+---
+
+For the [3D Scanning and Motion](https://www.in.tum.de/cg/teaching/winter-term-1718/3d-scanning-motion-capture/) project at the Technical University of Munich, we propose a real-time marker-less tracking and 3D reconstruction implementation and show how it can be used to create a mixed reality game using the Unity3D game engine. The concept was inspired by the spatial mapping technology behind Microsoft HoloLens and our 3D reconstruction pipeline is based on the [Kinect Fusion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf) pipeline. Tracking and reconstruction is performed in real-time using GPGPU acceleration (Cuda 10, DirectX 11 compute shaders). Finally, several Unity modules (e.g. physics, particle systems, etc) can be used to create interesting mixed reality projects.
+
+Results:
+
+![Original Scene]({{site.baseurl}}/assets/img/table.png)
+![Reconstruction]({{site.baseurl}}/assets/img/table_reconstruction.png)
+![Unity Animation]({{site.baseurl}}/assets/img/table_unity.png)
+
+Team Members: [Wojciech Zielonka](https://github.com/Zielon), [Patrick Radner](https://github.com/Mirjang), [Baris Yazici](https://github.com/BarisYazici)  
+Instructors: [Angela Dai](https://www.3dunderstanding.org/), [Justus Thies](https://justusthies.github.io/)
+
+[Github repository](https://github.com/Zielon/3DScanning) [Poster](https://drive.google.com/file/d/12FBuPVAHjvw5ScHcjpfj3ThMdQe9MjQ2/view?usp=sharing)
+
+Wojciech Zielonka, Patrick Radner and [Mustafa Isik](https://www.mustafaisik.net/) worked later on a really cool project for the 3D Scanning and Spatial Learning Practical Course at the [Visual Computing lab](https://www.niessnerlab.org/). Take a look at [RGB Face Tracking and Reconstruction using CUDA](https://github.com/isikmustafa/face-tracking)!
