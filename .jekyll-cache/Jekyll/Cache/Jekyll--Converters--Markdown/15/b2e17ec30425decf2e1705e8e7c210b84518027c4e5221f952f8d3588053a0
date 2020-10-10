@@ -1,0 +1,15 @@
+I"–<p>The main goal of the Hiwi project at the Technical University of Munich is collecting potentially useful information from the video game Grand Theft Auto V.</p>
+
+<p>Results:</p>
+
+<p><img src="/assets/img/table.png" alt="Original Scene" />
+<img src="/assets/img/table_reconstruction.png" alt="Reconstruction" />
+<img src="/assets/img/table_unity.png" alt="Unity Animation" /></p>
+
+<p>Advisors: <a href="https://www.bgu.tum.de/aigner/">Sandra Aigner</a>, <a href="https://www.bgu.tum.de/liebel/">Lukas Liebel</a><br />
+Supervisor: <a href="https://www.bgu.tum.de/lmf/koerner/">Marco KÃ¶rner</a></p>
+
+<p><a href="https://github.com/Zielon/3DScanning">Github repository</a> <a href="https://drive.google.com/file/d/12FBuPVAHjvw5ScHcjpfj3ThMdQe9MjQ2/view?usp=sharing">Poster</a></p>
+
+<p>Wojciech Zielonka, Patrick Radner and <a href="https://www.mustafaisik.net/">Mustafa Isik</a> worked later on a really cool project for the 3D Scanning and Spatial Learning Practical Course at the <a href="https://www.niessnerlab.org/">Visual Computing lab</a>. Take a look at <a href="https://github.com/isikmustafa/face-tracking">RGB Face Tracking and Reconstruction using CUDA</a>!</p>
+:ET

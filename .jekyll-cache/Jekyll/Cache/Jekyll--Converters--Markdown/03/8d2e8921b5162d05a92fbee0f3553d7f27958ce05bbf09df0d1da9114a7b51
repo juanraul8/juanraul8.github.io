@@ -1,0 +1,11 @@
+I"Ã<p>The main goal of the Hiwi project at the Technical University of Munich is collecting potentially useful information from the video games in order to train computer vision models. The project was inspired in the seminal publication <a href="">Playing for Data</a></p>
+
+<p>Results:</p>
+
+<p><img src="/assets/img/table.png" alt="Original Scene" />
+<img src="/assets/img/table_reconstruction.png" alt="Reconstruction" />
+<img src="/assets/img/table_unity.png" alt="Unity Animation" /></p>
+
+<p>Advisors: <a href="https://www.bgu.tum.de/aigner/">Sandra Aigner</a>, <a href="https://www.bgu.tum.de/liebel/">Lukas Liebel</a><br />
+Supervisor: <a href="https://www.bgu.tum.de/lmf/koerner/">Marco KÃ¶rner</a></p>
+:ET

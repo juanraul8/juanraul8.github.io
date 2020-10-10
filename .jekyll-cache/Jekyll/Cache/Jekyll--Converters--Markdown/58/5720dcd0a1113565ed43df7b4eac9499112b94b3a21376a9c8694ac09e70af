@@ -1,0 +1,13 @@
+I"…<p>The main goal of the Hiwi project at the Technical University of Munich is collecting potentially useful information from video games in order to train computer vision models. The project is inspired in the seminal publication <a href="https://download.visinf.tu-darmstadt.de/data/from_games/">Playing for Data</a>, where the authors showed that acquired data from video games supplemented with real-world images significantly increased accuracy of deep learning models for the semantic segmentation task. In addition, the acquisition pipeline reduces the amount of hand-labeled real-world data.</p>
+
+<p>Experiments on semantic segmentation datasets show that using the acquired data to supplement real-world images significantly increases accuracy and that the acquired data enables reducing the amount of hand-labeled real-world data: models trained with game data and just 1/3 of the CamVid training set outperform models trained on the complete CamVid training set.</p>
+
+<p>Results:</p>
+
+<p><img src="/assets/img/table.png" alt="Original Scene" />
+<img src="/assets/img/table_reconstruction.png" alt="Reconstruction" />
+<img src="/assets/img/table_unity.png" alt="Unity Animation" /></p>
+
+<p>Advisors: <a href="https://www.bgu.tum.de/aigner/">Sandra Aigner</a>, <a href="https://www.bgu.tum.de/liebel/">Lukas Liebel</a><br />
+Supervisor: <a href="https://www.bgu.tum.de/lmf/koerner/">Marco KÃ¶rner</a></p>
+:ET

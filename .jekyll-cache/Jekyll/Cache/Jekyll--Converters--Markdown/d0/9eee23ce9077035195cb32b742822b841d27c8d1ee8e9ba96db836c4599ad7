@@ -1,0 +1,17 @@
+I"³<p>The main goal of the Hiwi project at the chair of <a href="https://www.bgu.tum.de/lmf/startseite/">Remote Sensing Technology</a> is collecting potentially useful information from video games in order to train computer vision models. The project is inspired in the seminal publication <a href="https://download.visinf.tu-darmstadt.de/data/from_games/">Playing for Data</a>, where the authors show that acquired data from video games supplemented with real-world images significantly increases accuracy of deep learning models for the semantic segmentation task. In addition, the acquisition pipeline reduces the amount of hand-labeled real-world data. We develop a prototype in C++ to collect in realtime the DirectX Frame Buffers (RGB, Stencils, Albedo, Irradiance, Specular, Normal) from the video game Grand Theft Auto V. Finally, we could also extract further game attributes (e.g. time of day, location, vehicle speed, etc) using the Script Hook V mod.</p>
+
+<p>Results:</p>
+
+<p><img src="/assets/img/disparity_map.png" alt="Disparity Map" />
+<img src="/assets/img/normal_map.png" alt="Normal Map" /> 
+<img src="/assets/img/object_id_map.png" alt="Instance Segmentation" /></p>
+
+<p><img src="/assets/img/diffuse_map.png" alt="Albedo Map" />
+<img src="/assets/img/specular_map.png" alt="Specular Map" />
+<img src="/assets/img/irradiance_map.png" alt="Irradiance Map" /></p>
+
+<p>Advisors: <a href="https://www.bgu.tum.de/aigner/">Sandra Aigner</a>, <a href="https://www.bgu.tum.de/liebel/">Lukas Liebel</a><br />
+Supervisor: <a href="https://www.bgu.tum.de/lmf/koerner/">Marco KÃ¶rner</a></p>
+
+<p>If you want to know more about the project, please contact Lukas Liebel and Sandra Aigner. They are really nice advisors and they are working in interesting projects. I would also suggest you to read this amazing post <a href="http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/">GTA V - Graphics Study</a> and play with the amazing RenderDoc tool.</p>
+:ET

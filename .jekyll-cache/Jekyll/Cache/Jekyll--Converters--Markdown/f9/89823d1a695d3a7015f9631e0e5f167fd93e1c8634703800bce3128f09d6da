@@ -1,0 +1,11 @@
+I"²<p>The main goal of the Hiwi project at the Technical University of Munich is collecting potentially useful information from video games in order to train computer vision models. The project is inspired in the seminal publication <a href="https://download.visinf.tu-darmstadt.de/data/from_games/">Playing for Data</a>, where the authors show that acquired data from video games supplemented with real-world images significantly increases accuracy of deep learning models for the semantic segmentation task. In addition, the acquisition pipeline reduces the amount of hand-labeled real-world data. We develop a prototype in C++ to collect in realtime the DirectX Frame Buffers (RGB, Stencils, Albedo, Irradiance, Specular, Normal) from the video game Grand Theft Auto V.</p>
+
+<p>Results:</p>
+
+<p><img src="/assets/img/diffuse_map.png" alt="Albedo Map" />
+<img src="/assets/img/specular_map.png" alt="Specular Map" />
+<img src="/assets/img/table_unity.png" alt="Unity Animation" /></p>
+
+<p>Advisors: <a href="https://www.bgu.tum.de/aigner/">Sandra Aigner</a>, <a href="https://www.bgu.tum.de/liebel/">Lukas Liebel</a><br />
+Supervisor: <a href="https://www.bgu.tum.de/lmf/koerner/">Marco KÃ¶rner</a></p>
+:ET
