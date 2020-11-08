@@ -31,7 +31,7 @@ Results:
 ![Aufstockungs Tool 3]({{site.baseurl}}/assets/img/aufstockungs_3.png)
 
 Instructors: [Chloe Eghtebas](https://www.linkedin.com/in/n-chloe-eghtebas-86290379/), [Gerhard Schubert](https://www.ar.tum.de/ai/lehrstuhl/mitarbeiter-alt/gerhard-schubert/)  
-Team Members: [Ines Nopper](https://www.linkedin.com/in/ines-nopper-196b03133/), [Hannah Winklmann](https://www.linkedin.com/in/hannah-winklmann-085758196/)
+Team Members: Juan Raul Padron Griffe, [Ines Nopper](https://www.linkedin.com/in/ines-nopper-196b03133/), [Hannah Winklmann](https://www.linkedin.com/in/hannah-winklmann-085758196/)
 
 [Brochure](https://drive.google.com/file/d/1j04V1qBCHeppoZDzZTYxcXDSWGdVyE-u/view?usp=sharing) [Demo Video](https://drive.google.com/file/d/1qmw3nBTWiXnbuNXNdP84nFU1T2xoCpX5/view?usp=sharing)
 

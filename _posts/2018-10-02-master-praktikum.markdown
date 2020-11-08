@@ -18,7 +18,7 @@ Results overfitting a single protein:
 ![Value Loss]({{site.baseurl}}/assets/img/value_loss.png)
 ![Policy Loss]({{site.baseurl}}/assets/img/policy_loss.png)
 
-Team Members: Matthias Humt, [Felix Opolka](https://felixopolka.me/)  
+Team Members: Juan Raul Padron Griffe, Matthias Humt, [Felix Opolka](https://felixopolka.me/)  
 Instructors: [Vladimir Golkov](https://vision.in.tum.de/members/golkov), [Daniel Cremers](https://vision.in.tum.de/members/cremers)
 
 [Presentation](https://drive.google.com/file/d/1MO6883uBrZXU8mwp9gbQin5ssAZYthNi/view?usp=sharing)

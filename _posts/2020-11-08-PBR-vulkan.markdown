@@ -18,7 +18,7 @@ Results:
 ![Hyperion]({{site.baseurl}}/assets/img/hyperion.gif)
 ![Dinner Room]({{site.baseurl}}/assets/img/dinner_room.gif)
 
-Team Members: [Wojciech Zielonka](https://github.com/Zielon)  
+Team Members: Juan Raul Padron Griffe, [Wojciech Zielonka](https://github.com/Zielon)  
 
 [Github repository](https://github.com/Zielon/PBRVulkan)
 

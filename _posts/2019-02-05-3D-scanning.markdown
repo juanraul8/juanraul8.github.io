@@ -16,7 +16,7 @@ Results:
 ![Reconstruction]({{site.baseurl}}/assets/img/table_reconstruction.png)
 ![Unity Animation]({{site.baseurl}}/assets/img/table_unity.png)
 
-Team Members: [Wojciech Zielonka](https://github.com/Zielon), [Patrick Radner](https://github.com/Mirjang), [Baris Yazici](https://github.com/BarisYazici)  
+Team Members: Juan Raul Padron Griffe, [Wojciech Zielonka](https://github.com/Zielon), [Patrick Radner](https://github.com/Mirjang), [Baris Yazici](https://github.com/BarisYazici)  
 Instructors: [Angela Dai](https://www.3dunderstanding.org/), [Justus Thies](https://justusthies.github.io/)
 
 [Github repository](https://github.com/Zielon/3DScanning) [Poster](https://drive.google.com/file/d/12FBuPVAHjvw5ScHcjpfj3ThMdQe9MjQ2/view?usp=sharing)

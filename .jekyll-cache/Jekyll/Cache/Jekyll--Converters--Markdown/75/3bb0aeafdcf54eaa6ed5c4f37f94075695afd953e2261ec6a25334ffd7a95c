@@ -1,4 +1,4 @@
-I"Š<p>The project goal is creating a sandbox to experiment with physically-based rendering algorithms based on the ray tracing system. The sandbox consists of predefined environments with scenes including assets such as: 
+I"£<p>The project goal is creating a sandbox to experiment with physically-based rendering algorithms based on the ray tracing system. The sandbox consists of predefined environments with scenes including assets such as: 
 geometry, materials, light sources and textures. The implementation is based on the <a href="https://vulkan-tutorial.com/">Vulkan pipeline</a> and it has been tested on a Geforce GTX 1060 and GeForce RTX 2070. More details about
 the foundations can be found in the amazing <a href="http://www.pbr-book.org/3ed-2018/contents.html">PBR book</a>.</p>
 
@@ -8,7 +8,7 @@ the foundations can be found in the amazing <a href="http://www.pbr-book.org/3ed
 <img src="/assets/img/hyperion.gif" alt="Hyperion" />
 <img src="/assets/img/dinner_room.gif" alt="Dinner Room" /></p>
 
-<p>Team Members: <a href="https://github.com/Zielon">Wojciech Zielonka</a></p>
+<p>Team Members: Juan Raul Padron Griffe, <a href="https://github.com/Zielon">Wojciech Zielonka</a></p>
 
 <p><a href="https://github.com/Zielon/PBRVulkan">Github repository</a></p>
 
