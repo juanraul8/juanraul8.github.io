@@ -1,0 +1,10 @@
+I"j<p>This project started as a bachelor thesis of a talented student (Diego Bielsa) that I supervised together with <a href="https://webdiis.unizar.es/~amunoz/es/">Adolfo Muñoz</a> at the <a href="https://graphics.unizar.es/">Graphics and Imaging Lab</a> and later it was presented at the Spanish Computer Graphics Conference (<a href="https://www.eurographics.es/ceig23/">CEIG 2023, Palma de Mallorca</a>) under the title “A Biologically-Inspired Appearance Model for Snake Skin”. The implementation consists of a multi-layered material implemented inside the physically-based renderer <a href="https://www.mitsuba-renderer.org/index_old.html">Mitsuba 0.6</a> using the <a href="https://shuangz.com/projects/layered-sa18/">Position-Free Monte Carlo</a> formulation. The top layer is a thin layer responsible for the specular iridescent reflection using a <a href="https://belcour.github.io/blog/research/publication/2017/05/01/brdf-thin-film.html">practical iridescent microfacet model</a>, while the bottom layer is a diffuse highly-absorbing layer designed to reproduce the dark diffuse appearance that highlight the iridescent colors of the snake skin. If you would like to know more about this project, then please visit the official project website <a href="https://graphics.unizar.es/projects/SnakeSkinAppearance_2023/">Snake Appearance Model</a>. Below you can see a beautiful rendering of a snake 3D model using our practical snake skin reflectance model roughly matching the general appearance of a Xenopeltis Unicolor!</p>
+
+<p><img src="/assets/img/xenopeltis_unicolor_render.png" alt="Rendering Xenopeltis Unicolor" /></p>
+
+<p>Team Members: Juan Raul Padron Griffe, <a href="https://github.com/DiegoBielsa">Diego Bielsa</a></p>
+
+<p><a href="https://github.com/juanraul8/SnakeSkin">Github repository</a>(Coming soon)</p>
+
+<p>If you are interested in reptiles and their beautiful skin colours (pigmentary and structural) and skin colour patterns, then I would strongly encourage you to visit the official website of the <a href="https://www.lanevol.org/">Laboratory of Artificial &amp; Natural Evolution</a> at the University of Geneva!</p>
+:ET

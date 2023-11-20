@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vulkan Path Tracer Engine (Ongoing)
+title: Vulkan Path Tracer Engine
 date: 2020-11-08 13:32:20 +0300
 description: Physically-based rendering sandbox using Vulkan. # Add post description (optional)
 img: PBR_Vulkan.png # Add image post (optional)
