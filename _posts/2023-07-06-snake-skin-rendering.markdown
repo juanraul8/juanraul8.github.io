@@ -12,8 +12,8 @@ This project started as a bachelor thesis of a talented student (Diego Bielsa) t
 
 ![Rendering Xenopeltis Unicolor]({{site.baseurl}}/assets/img/xenopeltis_unicolor_render.png)
 
-Team Members: Juan Raul Padron Griffe, [Diego Bielsa](https://github.com/DiegoBielsa)  
+Team Members: Juan Raul Padron Griffe, [Diego Bielsa](https://www.linkedin.com/in/diego-bielsa-monterde/)  
 
-[Github repository](https://github.com/juanraul8/SnakeSkin)(Coming soon)
+[Github repository](https://github.com/juanraul8/SnakeSkinRendering)
 
 If you are interested in reptiles and their beautiful skin colours (pigmentary and structural) and skin colour patterns, then I would strongly encourage you to visit the official website of the [Laboratory of Artificial & Natural Evolution](https://www.lanevol.org/) at the University of Geneva!

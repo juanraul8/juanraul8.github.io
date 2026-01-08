@@ -14,6 +14,6 @@ We started this project two years ago lead by Dario Lanza when we visit [Jeppe F
 
 Team Members: [Dario Lanza](https://dariolanza95.github.io/), Juan Raul Padron Griffe, [Alina Pranovich](https://orbit.dtu.dk/en/persons/alina-pranovich)  
 
-[Github repository](https://github.com/dariolanza95/cosmetic_project) (Coming soon)
+[Github repository](https://github.com/dariolanza95/-Practical-Appearance-Model-for-Foundation-Cosmetics-)
 
 Carlos Aliaga and his colleagues recently release the source code of [BioSkin](https://github.com/facebookresearch/BioSkin). An interesting technique that can predict the biophysical skin properties from RGB reflectance and we think could potentially be combined with our appearance model in order to render the cosmetic foundations on different skin types.  
