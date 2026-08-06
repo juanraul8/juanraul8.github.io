@@ -17,7 +17,7 @@ against curl-noise jittering, Lloyd-based methods, and correlated multi-jittered
 in distribution quality at comparable computational cost. We showcase the framework across three graphics applications: color stippling, object placement, and Monte Carlo rendering. If you would like to know more about this project, 
 please visit the official project website [A Dynamical System for Spectral Noise Synthesis](https://graphics.unizar.es/projects/Venu2026DynamicalNoiseSynthesis/). Below, we showcase example results and a schematic overview of the framework.
 
-![Dynamical Noise Synthesis (Teaser)]({{site.baseurl}}/assets/img/dynamical_system_blue_noise_teaser.png)
+![Dynamical System for Noise Synthesis (Teaser)]({{site.baseurl}}/assets/img/dynamical_system_blue_noise_teaser.png)
 ![Mesh-Constrained Blue Noise on the Stanford Bunny]({{site.baseurl}}/assets/img/bunny_white_to_blue_comparison.png)
 
 Team Members: [Bojja Venu](https://www.dtu.dk/person/venu-bojja?id=172288), Juan Raul Padron Griffe

@@ -1,0 +1,31 @@
+I"�<p>This project presents “A Dynamical System for Spectral Noise Synthesis,” accepted to the symposium track of the Eurographics Symposium on Rendering (<a href="https://egsr2026.inria.fr/">EGSR 2026</a>). The work is joint first-authored by
+<a href="https://www.dtu.dk/person/venu-bojja?id=172288">Bojja Venu</a> (Technical University of Denmark) and <a href="https://juanraul8.github.io/">Juan Raúl Padrón Griffe</a> (Universidad de Zaragoza, I3A). We introduce a unified particle dynamics 
+framework for spectral noise point distribution synthesis, capable of transforming arbitrary input distributions, such as an Archimedean spiral, into blue, pink, or red noise patterns within a single simulation pipeline. The framework
+combines phasor vector field advection, which displaces particles along smooth spatially varying directions, with an inter-particle repulsion term that enforces local spatial uniformity, together forming a Langevin-type dynamical
+system. An optional attraction term extends the same pipeline to pink and red noise through hierarchical spatial clustering, giving direct control over the spectral characteristics of the output distribution. We evaluate our method
+against curl-noise jittering, Lloyd-based methods, and correlated multi-jittered sampling across several metrics, including anisotropy, discrepancy, spacing, coefficient of variation, and execution time, showing consistent improvements
+in distribution quality at comparable computational cost. We showcase the framework across three graphics applications: color stippling, object placement, and Monte Carlo rendering. If you would like to know more about this project, 
+please visit the official project website <a href="https://graphics.unizar.es/projects/Venu2026DynamicalNoiseSynthesis/">A Dynamical System for Spectral Noise Synthesis</a>. Below, we showcase example results and a schematic overview of the framework.</p>
+
+<p>This project presents “Curvature-Aware Multi-Scale Gaussian Appearance Model for Fabric Flyaways,” accepted to the conference track of SIGGRAPH Asia 2026. The work is co-authored by Apoorv Khattar (University of Manchester), 
+<a href="https://juanraul8.github.io/">Juan Raúl Padrón Griffe</a> (Universidad de Zaragoza, I3A), Ling-Qi Yan (Mohamed bin Zayed University of Artificial Intelligence), and <a href="https://personalpages.manchester.ac.uk/staff/zahra.montazeri/">Zahra Montazeri</a> (University of Manchester). We introduce a multi-scale appearance model for fabric
+flyaways — the fine, protruding fibers that give real-world textiles their characteristic fuzzy look and grazing-angle sheen — using 3D Gaussian primitives stored in a tileable texture instead of costly explicit curves or volumetric
+representations. Individual fibers are compactly represented as anisotropic Gaussians and merged bottom-up into a mip-map-style pyramid as the pixel footprint grows, while a curvature-aware ray marching scheme updates the fabric’s
+silhouette at runtime without any precomputed curvature or normal maps. We evaluate our method against curve- and volume-based flyaway representations, achieving up to 7 to 40 times faster rendering while reducing storage requirements
+by up to five orders of magnitude, all while providing greater artistic control over fiber density and protrusion depth. If you would like to know more about this project, please visit the official project website <a href="https://graphics.unizar.es/projects/Khattar2026FabricFlyaways/">Curvature-Aware
+Multi-Scale Gaussian Appearance Model for Fabric Flyaways</a>. Below, we showcase example results and a schematic overview of the framework.</p>
+
+<p><img src="/assets/img/fabric_flyaways_teaser.png" alt="Fabric Flyaways Rendering (Teaser)" /></p>
+
+<p>Team Members: <a href="https://www.dtu.dk/person/venu-bojja?id=172288">Bojja Venu</a>, Juan Raul Padron Griffe</p>
+
+<p>The paper and supplemental material are available on the <a href="https://graphics.unizar.es/projects/Venu2026DynamicalNoiseSynthesis/#downloads">project website</a>. Code and data will be released soon.</p>
+
+<p>If you are interested in spectral sampling and point distribution synthesis more broadly, then I would strongly encourage you to take a look at the following works: <a href="https://github.com/jonasmb/curlnoisejittering">Curl-Noise Jittering</a>, 
+which generates blue noise by advecting points along a divergence-free vector field and serves as one of our baselines, and <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13472">Progressive Multi-Jittered Sample Sequences</a>, 
+whose PMJ02BN sampler we drive with our blue noise textures in our Monte Carlo rendering experiments. For screen-space error diffusion read <a href="https://dl.acm.org/doi/10.1145/3414685.3417881">Screen-Space Blue-Noise Diffusion of Monte Carlo Sampling Error via Hierarchical Ordering of Pixels</a>, 
+which introduces the zsobol sampler we compare against. For physically-based simulation approaches read <a href="https://dl.acm.org/doi/10.1145/2816795.2818102">Blue Noise Sampling Using an SPH-based Method</a>, which generates blue noise by simulating
+particle dynamics inspired by Smoothed Particle Hydrodynamics. The phasor-field formulation at the core of our advection step builds on <a href="http://thibaulttricard.fr/project_page/phasor_noise/phasor.html">Procedural Phasor Noise</a>
+by <a href="http://thibaulttricard.fr/">Thibault Tricard</a>. For extending blue noise generation to arbitrary spectra, see <a href="https://dl.acm.org/doi/10.1145/2185520.2185572">Point Sampling with General Noise Spectrum</a>. For a broader introduction
+to sampling theory and its role in rendering, watch the SIGGRAPH course <a href="https://www.youtube.com/watch?v=bHDfETTS550">My Favorite Samples</a>, which includes PMJ sequences and blue-noise dithering.</p>
+:ET
