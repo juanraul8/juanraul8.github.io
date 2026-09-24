@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Face Relighting In The Wild
+title: Face Relighting In The Wild (Master Thesis)
 date: 2020-07-31 13:32:20 +0300
 description: Given an arbitrary portrait image and a target lighting as inputs, the algorithm generates the relight version of the portrait image under the target lighting conditions. # Add post description (optional)
 img: face_relighting.gif # Add image post (optional)

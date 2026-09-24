@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fractal Terrain Generation using Noise Synthesis
+title: Fractal Terrain Generation using Noise Synthesis (Bachelor Thesis)
 date: 2015-05-24 13:32:20 +0300
 description: Intuitive tool using OpenGL to explore and evaluate several fractal algorithms and their associated parameters. # Add post description (optional)
 img: bachelor_thesis.png # Add image post (optional)
